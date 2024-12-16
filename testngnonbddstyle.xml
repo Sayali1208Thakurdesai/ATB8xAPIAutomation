@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Sayali/Documents/ATB8xAPIAutomation"><classes><class name="Restassured_Basics_GET.APITest_006_NonBDDstyle"><methods><include name="test_NonbddstyleGETPositive"/><include name="test_NonbddstyleGETNegative"/></methods></class><class name="Restassured_Basics_GET.apitesting_Get_Testng"><methods><include name="test_get_Request"/></methods></class></classes></test></suite>
